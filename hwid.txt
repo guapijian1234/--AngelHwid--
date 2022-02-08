@@ -1,1 +1,6 @@
-guppnmsl:guppnmsl
+{
+  "exe_info": {
+    "exeOpen":True
+  },
+  "guapi":"guapinb"
+}
