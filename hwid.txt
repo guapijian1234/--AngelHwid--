@@ -6,5 +6,6 @@
   "caikun":"ck001NB!",
   "white":"Doge233",
   "ShenFeng":".207912.",
+  "wuchang":"Miaowu321",
   "Xmhk":"xmhkqwer123."
 }
