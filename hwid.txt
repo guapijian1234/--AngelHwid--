@@ -2,5 +2,8 @@
   "exe_info": {
     "exeOpen":True
   },
-  "guapi":"guapinb"
+  "guapi":"guapinb",
+  "caikun":"ck001NB!",
+  "white":"Doge233",
+  "ShenFeng":".207912."
 }
